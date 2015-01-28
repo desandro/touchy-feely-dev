@@ -264,11 +264,3 @@ How will you get the user involved?
 + But in the end, it's for people
 
 ## Build for people
-
-## Fun time
-
-![](img/rooms.jpg)
-
-## _Boo this man!_
-
-![Boo Carl Smith](img/boo-carl-smith.gif)

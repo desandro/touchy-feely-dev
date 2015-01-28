@@ -1,2 +1,2 @@
 name: Mobile Safari
-pygments: true
+highlighter: pygments
